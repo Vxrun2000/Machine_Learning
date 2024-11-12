@@ -1,1 +1,3 @@
-Machine Learning Algorithms with visualization 
+Data Preprocessing
+Machine learning models
+Visualization
