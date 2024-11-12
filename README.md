@@ -1,3 +1,1 @@
-Data Preprocessing
-Machine learning models
-Visualization
+Data Preprocessing, Machine learning models and Visualization
